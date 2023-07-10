@@ -7,7 +7,7 @@ const Intro = () => {
         {SITE_TITLE}
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Don't know how to cook? There is a recipe for you!
+        Annemden yemek tarifleri
       </h4>
     </section>
   );
