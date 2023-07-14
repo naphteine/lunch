@@ -1,13 +1,11 @@
 # Lunch
 
-Welcome to Lunch, a web application to share recipes for delicious meals, inspired by the cherished recipes from my mother. Recipes are stored as Markdown files, making it easy to add and manage your favorite culinary creations.
+Welcome to Lunch, a web application designed by myself, developed using Next.js and Tailwind. This project provides an interface to recipes for delicious meals, inspired by recipes from my mother. Recipes are stored as Markdown files, making it easy to add and manage.
 
-## Features To Be Implemented
+## Features
 
-- Recipe Collection: Create, store and organize your favorite recipes in one place.
+- Recipe Collection: Create, store, and organize recipes in one place.
 - Markdown Support: Write recipes using Markdown formatting for easy readability and flexibility.
-- Search Functionality: Quickly find recipes based on ingredients, cuisine or recipe name.
-- Responsive Design: Enjoy a seamless experience across different devices,ensuring easy access to recipes wherever you go.
 
 ## Getting Started
 
@@ -17,13 +15,27 @@ Welcome to Lunch, a web application to share recipes for delicious meals, inspir
 4. Start the development server: `yarn run dev`
 5. Open your browser and visit: `http://localhost:3000`
 
+## Project Structure
+
+- `/pages`: Contains the application's pages and routing logic.
+- `/components`: Includes reusable React components used throughout the project.
+- `/styles`: Houses global styles and Tailwind CSS configuration files.
+- `/public`: Stores static assets such as images.
+- `/_recipes`: Stores recipes as Markdown files.
+
 ## Technologies Used
 
 - Next.js
 - React
-- Tailwind CSS
-- CSS Modules
 - TypeScript
+- CSS Modules
+- Tailwind
+- Markdown
+
+## Roadmap
+
+- Search Functionality: Quickly find recipes based on ingredients, cuisine or recipe name.
+- Responsive Design: Enjoy a seamless experience across different devices, ensuring easy access wherever you go.
 
 ## Contributing
 
