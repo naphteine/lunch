@@ -39,7 +39,7 @@ Welcome to Lunch, a web application designed by myself, developed using Next.js 
 
 ## Contributing
 
-If you have any improvements, bug fixes, or feature suggestions, please open an issue on the GitHub repository.
+This is a private project. If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository.
 
 ## License
 
