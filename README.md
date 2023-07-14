@@ -37,10 +37,6 @@ Welcome to Lunch, a web application designed by myself, developed using Next.js 
 - Search Functionality: Quickly find recipes based on ingredients, cuisine or recipe name.
 - Responsive Design: Enjoy a seamless experience across different devices, ensuring easy access wherever you go.
 
-## Name
-
-The name of this project, "Lunch", is inspired by the film "Naked Lunch" and its source material, the novel by William S. Burroughs.
-
 ## Contributing
 
 If you have any improvements, bug fixes, or feature suggestions, please open an issue on the GitHub repository.
@@ -48,3 +44,7 @@ If you have any improvements, bug fixes, or feature suggestions, please open an 
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+## Trivial
+
+The name of this project, "Lunch", is inspired by the film "Naked Lunch" and its source material, the novel by William S. Burroughs.
