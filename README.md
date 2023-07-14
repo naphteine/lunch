@@ -31,4 +31,4 @@ If you have any improvements, bug fixes, or feature suggestions, please open an 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
