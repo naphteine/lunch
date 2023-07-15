@@ -28,7 +28,6 @@ Welcome to Lunch, a web application designed by myself, developed using Next.js 
 - Next.js
 - React
 - TypeScript
-- CSS Modules
 - Tailwind
 - Markdown
 
